@@ -28,4 +28,8 @@
 ## 📫 Контакты
 - Email: твой@email.com
 - LinkedIn: [ссылка на профиль](https://linkedin.com/in/...)
-- GitHub: [avg717918-glitch](https://github.com/avg717918-glitch)
+- GitHub: [av9717918-glitch](https://github.com/av9717918-glitch)
+## 📫 Контакты
+- Email: твой@email.com
+- LinkedIn: [ссылка на профиль](https://linkedin.com/in/...)
+- GitHub: [av9717918-glitch](https://github.com/av9717918-glitch)
