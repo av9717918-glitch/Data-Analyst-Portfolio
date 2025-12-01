@@ -26,7 +26,7 @@
 - **Файлы:** [nlp/sentiment_analysis.py](./nlp/sentiment_analysis.py)
 
 ## 📫 Контакты
-- Email: твой@email.com
+- Email: av9717918@gmail.com
 - LinkedIn: [ссылка на профиль](https://linkedin.com/in/...)
 - GitHub: [av9717918-glitch](https://github.com/av9717918-glitch)
 
@@ -64,6 +64,6 @@ cat > README.md << 'EOF'
 - **Файлы:** [nlp/sentiment_analysis.py](./nlp/sentiment_analysis.py)
 
 ## 📫 Контакты
-- Email: твой@email.com
+- Email: av9717918@gmail.com
 - LinkedIn: [ссылка на профиль](https://linkedin.com/in/...)
 - GitHub: [av9717918-glitch](https://github.com/av9717918-glitch)
